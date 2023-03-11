@@ -16,6 +16,8 @@ const camilo = {
         backEnd: {
             Java: ["Spring framework"],
             PHP: ["Laravel"],
+        },
+        frontEnd: {
             Js:["Vue"]
         },
         databases: ["MySql"]
