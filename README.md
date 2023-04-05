@@ -18,7 +18,7 @@ const camilo = {
             PHP: ["Laravel"],
         },
         frontEnd: {
-            Js:["Vue"]
+            Js:["Vue js", "Angular"]
         },
         databases: ["MySql"]
     },
